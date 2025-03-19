@@ -1,1 +1,1 @@
-# WBS-DIA-BHS-Budgeting-Time-Cost-Estimation
+# WBS-DIA-BHS-Budget-Time-Cost-Estimation
